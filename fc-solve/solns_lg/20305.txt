@@ -1,0 +1,1545 @@
+-=-=-=-=-=-=-=-=-=-=-=-
+
+Foundations: H-0 C-0 D-0 S-0
+Freecells:
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC AH
+: 8D 4C 3H 3S AC 3D 7S
+: 4D AS 4H 7C 7H 6H KH
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS 2H
+: 9D JS 9H 4S QS KS
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-A C-0 D-0 S-0
+Freecells:
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C 3H 3S AC 3D 7S
+: 4D AS 4H 7C 7H 6H KH
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS 2H
+: 9D JS 9H 4S QS KS
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-2 C-0 D-0 S-0
+Freecells:
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C 3H 3S AC 3D 7S
+: 4D AS 4H 7C 7H 6H KH
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S QS KS
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-2 C-0 D-0 S-0
+Freecells:  7S
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C 3H 3S AC 3D
+: 4D AS 4H 7C 7H 6H KH
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S QS KS
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-2 C-0 D-0 S-0
+Freecells:  7S  3D
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C 3H 3S AC
+: 4D AS 4H 7C 7H 6H KH
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S QS KS
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-2 C-A D-0 S-0
+Freecells:  7S  3D
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C 3H 3S
+: 4D AS 4H 7C 7H 6H KH
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S QS KS
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-2 C-A D-0 S-0
+Freecells:  7S  3D  KS
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C 3H 3S
+: 4D AS 4H 7C 7H 6H KH
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S QS
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-2 C-A D-0 S-0
+Freecells:  7S  3D  KS  QS
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C 3H 3S
+: 4D AS 4H 7C 7H 6H KH
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-2 C-A D-0 S-0
+Freecells:  7S      KS  QS
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C 3H 3S
+: 4D AS 4H 7C 7H 6H KH
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-2 C-A D-0 S-0
+Freecells:  7S      KS
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C 3H 3S
+: 4D AS 4H 7C 7H 6H KH QS
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-2 C-A D-0 S-0
+Freecells:  7S  3S  KS
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C 3H
+: 4D AS 4H 7C 7H 6H KH QS
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-3 C-A D-0 S-0
+Freecells:  7S  3S  KS
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 4C
+: 4D AS 4H 7C 7H 6H KH QS
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-3 C-A D-0 S-0
+Freecells:  7S  3S  KS  4C
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D
+: 4D AS 4H 7C 7H 6H KH QS
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-3 C-A D-0 S-0
+Freecells:      3S  KS  4C
+: 8H 5S 6S 5H JH QH 5D
+: 2C QC 2D 8C 6D JC
+: 8D 7S
+: 4D AS 4H 7C 7H 6H KH QS
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-3 C-A D-0 S-0
+Freecells:      3S  KS
+: 8H 5S 6S 5H JH QH 5D 4C
+: 2C QC 2D 8C 6D JC
+: 8D 7S
+: 4D AS 4H 7C 7H 6H KH QS
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S AD TC
+
+
+====================
+
+Foundations: H-3 C-A D-0 S-0
+Freecells:  TC  3S  KS
+: 8H 5S 6S 5H JH QH 5D 4C
+: 2C QC 2D 8C 6D JC
+: 8D 7S
+: 4D AS 4H 7C 7H 6H KH QS
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S AD
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:  TC  3S  KS
+: 8H 5S 6S 5H JH QH 5D 4C
+: 2C QC 2D 8C 6D JC
+: 8D 7S
+: 4D AS 4H 7C 7H 6H KH QS
+: 9C KD 2S 9S JD 6C
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:  TC  3S  KS  6C
+: 8H 5S 6S 5H JH QH 5D 4C
+: 2C QC 2D 8C 6D JC
+: 8D 7S
+: 4D AS 4H 7C 7H 6H KH QS
+: 9C KD 2S 9S JD
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:      3S  KS  6C
+: 8H 5S 6S 5H JH QH 5D 4C
+: 2C QC 2D 8C 6D JC
+: 8D 7S
+: 4D AS 4H 7C 7H 6H KH QS
+: 9C KD 2S 9S JD TC
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:      3S  KS  6C
+: 8H 5S 6S 5H JH QH 5D 4C
+: 2C QC 2D 8C 6D JC
+: 8D 7S
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:      3S  KS  6C
+: 8H 5S 6S 5H JH QH 5D 4C
+: 2C QC 2D 8C 6D JC
+:
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:      3S  KS
+: 8H 5S 6S 5H JH QH 5D 4C
+: 2C QC 2D 8C 6D JC
+: 6C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:      3S  KS
+: 8H 5S 6S 5H JH QH
+: 2C QC 2D 8C 6D JC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:  JC  3S  KS
+: 8H 5S 6S 5H JH QH
+: 2C QC 2D 8C 6D
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:  JC  3S  KS
+: 8H 5S 6S 5H JH QH
+: 2C QC 2D 8C
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:      3S  KS
+: 8H 5S 6S 5H JH QH JC
+: 2C QC 2D 8C
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-A S-0
+Freecells:      3S  KS  8C
+: 8H 5S 6S 5H JH QH JC
+: 2C QC 2D
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-2 S-0
+Freecells:      3S  KS  8C
+: 8H 5S 6S 5H JH QH JC
+: 2C QC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 4S 3D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-3 S-0
+Freecells:      3S  KS  8C
+: 8H 5S 6S 5H JH QH JC
+: 2C QC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 4S
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-3 S-0
+Freecells:  4S  3S  KS  8C
+: 8H 5S 6S 5H JH QH JC
+: 2C QC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-3 S-0
+Freecells:  4S  3S  KS
+: 8H 5S 6S 5H JH QH JC
+: 2C QC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 8C
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-A D-3 S-0
+Freecells:  4S  3S  KS  QC
+: 8H 5S 6S 5H JH QH JC
+: 2C
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 8C
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:  4S  3S  KS  QC
+: 8H 5S 6S 5H JH QH JC
+:
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 8C
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:  4S  3S      QC
+: 8H 5S 6S 5H JH QH JC
+: KS
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 8C
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:  4S  3S      QC
+: 8H 5S 6S 5H JH
+: KS QH JC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 8C
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:  4S  3S  JH  QC
+: 8H 5S 6S 5H
+: KS QH JC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 8C
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:      3S  JH  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS 9H 8C
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:      3S  JH  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D JS
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:  JS  3S  JH  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS
+: 9D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:  JS  3S  JH  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS 9D
+:
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:  JS  3S      QC
+: 8H 5S 6S 5H 4S
+: KS QH JC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH TS 9D
+: JH
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:  JS  3S      QC
+: 8H 5S 6S 5H 4S
+: KS QH JC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD TH
+: JH TS 9D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:  JS  3S  TH  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C TD
+: JH TS 9D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-2 D-3 S-0
+Freecells:  JS  3S  TH  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC TD
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD 3C
+: JH TS 9D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-3 D-3 S-0
+Freecells:  JS  3S  TH  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC TD
+: 6C 5D 4C
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD
+: JH TS 9D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-4 D-3 S-0
+Freecells:  JS  3S  TH  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC TD
+: 6C 5D
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD
+: JH TS 9D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-4 D-3 S-0
+Freecells:      3S  TH  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC TD
+: 6C 5D
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD JS
+: JH TS 9D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-4 D-3 S-0
+Freecells:      3S      QC
+: 8H 5S 6S 5H 4S
+: KS QH JC TD
+: 6C 5D
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD JS TH
+: JH TS 9D
+: KC 7D 5C 8S
+
+
+====================
+
+Foundations: H-3 C-4 D-3 S-0
+Freecells:  8S  3S      QC
+: 8H 5S 6S 5H 4S
+: KS QH JC TD
+: 6C 5D
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD JS TH
+: JH TS 9D
+: KC 7D 5C
+
+
+====================
+
+Foundations: H-3 C-5 D-3 S-0
+Freecells:  8S  3S      QC
+: 8H 5S 6S 5H 4S
+: KS QH JC TD
+: 6C 5D
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD JS TH
+: JH TS 9D
+: KC 7D
+
+
+====================
+
+Foundations: H-3 C-5 D-3 S-0
+Freecells:      3S      QC
+: 8H 5S 6S 5H 4S
+: KS QH JC TD
+: 6C 5D
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD JS TH
+: JH TS 9D 8S
+: KC 7D
+
+
+====================
+
+Foundations: H-3 C-5 D-3 S-0
+Freecells:      3S  5D  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC TD
+: 6C
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD JS TH
+: JH TS 9D 8S
+: KC 7D
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:      3S  5D  QC
+: 8H 5S 6S 5H 4S
+: KS QH JC TD
+:
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD JS TH
+: JH TS 9D 8S
+: KC 7D
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:      3S  5D  QC
+: 8H 5S
+: KS QH JC TD
+:
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D
+: QD JS TH
+: JH TS 9D 8S
+: KC 7D 6S 5H 4S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:      3S  5D  QC
+: 8H
+: KS QH JC TD
+:
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C
+: 9C KD 2S 9S 8D 7S 6D 5S
+: QD JS TH
+: JH TS 9D 8S
+: KC 7D 6S 5H 4S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:      3S  5D  QC
+: 8H
+: KS QH JC TD
+:
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 9C KD 2S 9S 8D 7S 6D 5S
+: QD JS TH
+: JH TS 9D 8S
+: KC
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:      3S  5D  QC
+: 8H
+: KS QH JC TD
+:
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 9C KD 2S 9S 8D 7S 6D 5S
+:
+: JH TS 9D 8S
+: KC QD JS TH
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:      3S  5D  QC
+: 8H
+: KS QH JC TD
+:
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 9C KD 2S
+:
+: JH TS 9D 8S
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D  QC
+: 8H
+: KS QH JC TD
+:
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 9C KD
+:
+: JH TS 9D 8S
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D  QC
+: 8H
+: KS QH JC TD
+: KD
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 9C
+:
+: JH TS 9D 8S
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D  QC
+: 8H
+: KS QH JC TD
+: KD
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C 7D 6S 5H 4S
+:
+: 9C
+: JH TS 9D 8S
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D
+: 8H
+: KS QH JC TD
+: KD QC
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C 7D 6S 5H 4S
+:
+: 9C
+: JH TS 9D 8S
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D
+:
+: KS QH JC TD
+: KD QC
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C 7D 6S 5H 4S
+:
+: 9C 8H
+: JH TS 9D 8S
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D
+:
+: KS QH JC TD 9C 8H
+: KD QC
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C 7D 6S 5H 4S
+:
+:
+: JH TS 9D 8S
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D
+:
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+: 4D AS 4H 7C 7H 6H KH QS JD TC 9H 8C 7D 6S 5H 4S
+:
+:
+:
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D
+:
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+: 4D AS 4H 7C 7H 6H
+: KH QS JD TC 9H 8C 7D 6S 5H 4S
+:
+:
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D  6H
+:
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+: 4D AS 4H 7C 7H
+: KH QS JD TC 9H 8C 7D 6S 5H 4S
+:
+:
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D  6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+: 4D AS 4H 7C
+: KH QS JD TC 9H 8C 7D 6S 5H 4S
+:
+:
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D  6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+: 4D AS 4H
+: KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 7C
+:
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-0
+Freecells:  2S  3S  5D  6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+: 4D AS
+: KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 7C
+: 4H
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-A
+Freecells:  2S  3S  5D  6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+: 4D
+: KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 7C
+: 4H
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-2
+Freecells:      3S  5D  6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+: 4D
+: KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 7C
+: 4H
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-3 C-6 D-3 S-3
+Freecells:          5D  6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+: 4D
+: KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 7C
+: 4H
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-4 C-6 D-3 S-3
+Freecells:          5D  6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+: 4D
+: KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 7C
+:
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-4 C-6 D-4 S-3
+Freecells:          5D  6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D 6S 5H 4S
+: 7C
+:
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-4 C-6 D-4 S-4
+Freecells:          5D  6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D 6S 5H
+: 7C
+:
+: KC QD JS TH 9S 8D 7S 6D 5S
+
+
+====================
+
+Foundations: H-4 C-6 D-4 S-5
+Freecells:          5D  6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D 6S 5H
+: 7C
+:
+: KC QD JS TH 9S 8D 7S 6D
+
+
+====================
+
+Foundations: H-4 C-6 D-5 S-5
+Freecells:              6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D 6S 5H
+: 7C
+:
+: KC QD JS TH 9S 8D 7S 6D
+
+
+====================
+
+Foundations: H-5 C-6 D-5 S-5
+Freecells:              6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D 6S
+: 7C
+:
+: KC QD JS TH 9S 8D 7S 6D
+
+
+====================
+
+Foundations: H-5 C-6 D-6 S-5
+Freecells:              6H
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D 6S
+: 7C
+:
+: KC QD JS TH 9S 8D 7S
+
+
+====================
+
+Foundations: H-6 C-6 D-6 S-5
+Freecells:
+: 7H
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D 6S
+: 7C
+:
+: KC QD JS TH 9S 8D 7S
+
+
+====================
+
+Foundations: H-7 C-6 D-6 S-5
+Freecells:
+:
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D 6S
+: 7C
+:
+: KC QD JS TH 9S 8D 7S
+
+
+====================
+
+Foundations: H-7 C-7 D-6 S-5
+Freecells:
+:
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D 6S
+:
+:
+: KC QD JS TH 9S 8D 7S
+
+
+====================
+
+Foundations: H-7 C-7 D-6 S-6
+Freecells:
+:
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D
+:
+:
+: KC QD JS TH 9S 8D 7S
+
+
+====================
+
+Foundations: H-7 C-7 D-6 S-7
+Freecells:
+:
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D 8S
+:
+: KH QS JD TC 9H 8C 7D
+:
+:
+: KC QD JS TH 9S 8D
+
+
+====================
+
+Foundations: H-7 C-7 D-6 S-8
+Freecells:
+:
+: KS QH JC TD 9C 8H
+: KD QC JH TS 9D
+:
+: KH QS JD TC 9H 8C 7D
+:
+:
+: KC QD JS TH 9S 8D
+
+
+====================
+
+Foundations: H-8 C-7 D-6 S-8
+Freecells:
+:
+: KS QH JC TD 9C
+: KD QC JH TS 9D
+:
+: KH QS JD TC 9H 8C 7D
+:
+:
+: KC QD JS TH 9S 8D
+
+
+====================
+
+Foundations: H-8 C-7 D-7 S-8
+Freecells:
+:
+: KS QH JC TD 9C
+: KD QC JH TS 9D
+:
+: KH QS JD TC 9H 8C
+:
+:
+: KC QD JS TH 9S 8D
+
+
+====================
+
+Foundations: H-8 C-7 D-8 S-8
+Freecells:
+:
+: KS QH JC TD 9C
+: KD QC JH TS 9D
+:
+: KH QS JD TC 9H 8C
+:
+:
+: KC QD JS TH 9S
+
+
+====================
+
+Foundations: H-8 C-7 D-9 S-8
+Freecells:
+:
+: KS QH JC TD 9C
+: KD QC JH TS
+:
+: KH QS JD TC 9H 8C
+:
+:
+: KC QD JS TH 9S
+
+
+====================
+
+Foundations: H-8 C-8 D-9 S-8
+Freecells:
+:
+: KS QH JC TD 9C
+: KD QC JH TS
+:
+: KH QS JD TC 9H
+:
+:
+: KC QD JS TH 9S
+
+
+====================
+
+Foundations: H-8 C-8 D-9 S-9
+Freecells:
+:
+: KS QH JC TD 9C
+: KD QC JH TS
+:
+: KH QS JD TC 9H
+:
+:
+: KC QD JS TH
+
+
+====================
+
+Foundations: H-8 C-8 D-9 S-T
+Freecells:
+:
+: KS QH JC TD 9C
+: KD QC JH
+:
+: KH QS JD TC 9H
+:
+:
+: KC QD JS TH
+
+
+====================
+
+Foundations: H-8 C-9 D-9 S-T
+Freecells:
+:
+: KS QH JC TD
+: KD QC JH
+:
+: KH QS JD TC 9H
+:
+:
+: KC QD JS TH
+
+
+====================
+
+Foundations: H-9 C-9 D-9 S-T
+Freecells:
+:
+: KS QH JC TD
+: KD QC JH
+:
+: KH QS JD TC
+:
+:
+: KC QD JS TH
+
+
+====================
+
+Foundations: H-T C-9 D-9 S-T
+Freecells:
+:
+: KS QH JC TD
+: KD QC JH
+:
+: KH QS JD TC
+:
+:
+: KC QD JS
+
+
+====================
+
+Foundations: H-J C-9 D-9 S-T
+Freecells:
+:
+: KS QH JC TD
+: KD QC
+:
+: KH QS JD TC
+:
+:
+: KC QD JS
+
+
+====================
+
+Foundations: H-J C-9 D-T S-T
+Freecells:
+:
+: KS QH JC
+: KD QC
+:
+: KH QS JD TC
+:
+:
+: KC QD JS
+
+
+====================
+
+Foundations: H-J C-T D-T S-T
+Freecells:
+:
+: KS QH JC
+: KD QC
+:
+: KH QS JD
+:
+:
+: KC QD JS
+
+
+====================
+
+Foundations: H-J C-T D-T S-J
+Freecells:
+:
+: KS QH JC
+: KD QC
+:
+: KH QS JD
+:
+:
+: KC QD
+
+
+====================
+
+Foundations: H-J C-J D-T S-J
+Freecells:
+:
+: KS QH
+: KD QC
+:
+: KH QS JD
+:
+:
+: KC QD
+
+
+====================
+
+Foundations: H-J C-J D-J S-J
+Freecells:
+:
+: KS QH
+: KD QC
+:
+: KH QS
+:
+:
+: KC QD
+
+
+====================
+
+Foundations: H-J C-J D-Q S-J
+Freecells:
+:
+: KS QH
+: KD QC
+:
+: KH QS
+:
+:
+: KC
+
+
+====================
+
+Foundations: H-J C-Q D-Q S-J
+Freecells:
+:
+: KS QH
+: KD
+:
+: KH QS
+:
+:
+: KC
+
+
+====================
+
+Foundations: H-Q C-Q D-Q S-J
+Freecells:
+:
+: KS
+: KD
+:
+: KH QS
+:
+:
+: KC
+
+
+====================
+
+Foundations: H-Q C-Q D-Q S-Q
+Freecells:
+:
+: KS
+: KD
+:
+: KH
+:
+:
+: KC
+
+
+====================
+
+Foundations: H-Q C-K D-Q S-Q
+Freecells:
+:
+: KS
+: KD
+:
+: KH
+:
+:
+:
+
+
+====================
+
+Foundations: H-Q C-K D-K S-Q
+Freecells:
+:
+: KS
+:
+:
+: KH
+:
+:
+:
+
+
+====================
+
+Foundations: H-Q C-K D-K S-K
+Freecells:
+:
+:
+:
+:
+: KH
+:
+:
+:
+
+
+====================
+
+Foundations: H-K C-K D-K S-K
+Freecells:
+:
+:
+:
+:
+:
+:
+:
+:
+
+
+====================
+
+This game is solveable.
+Total number of states checked is 47.
+This scan generated 94 states.
